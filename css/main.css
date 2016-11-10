@@ -35,7 +35,7 @@ p {
 
 .banner-content {
   position: absolute;
-  bottom: 2em;
+  bottom: 2.5em;
   left: 50%;
   transform: translateX(-50%);
   max-width: 50em;
