@@ -17,6 +17,7 @@ h2 {
   color: #fff;
   font-size: 4rem;
   margin: 0;
+  display: inline;
 }
 
 p {
@@ -34,8 +35,11 @@ p {
 .banner-content {
   position: absolute;
   bottom: 1.5em;
-  left: 2em;
+  left: 50%;
+  transform: translateX(-50%);
   max-width: 50em;
+  width: 100%;
+  margin-left: 1em;
 }
 
 .img-flex {
