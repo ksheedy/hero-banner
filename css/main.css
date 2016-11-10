@@ -18,6 +18,7 @@ h2 {
   font-size: 4rem;
   margin: 0;
   display: inline;
+  line-height: 1.4;
 }
 
 p {
@@ -34,7 +35,7 @@ p {
 
 .banner-content {
   position: absolute;
-  bottom: 1.5em;
+  bottom: 2em;
   left: 50%;
   transform: translateX(-50%);
   max-width: 50em;
